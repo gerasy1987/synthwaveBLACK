@@ -906,11 +906,11 @@ table.rstheme_tabLayoutCenter, .rstudio-themes-flat .rstudio-themes-dark-grey .g
 
 .rstudio-themes-flat.rstudio-themes-dark-grey .colFilter, .rstudio-themes-flat.rstudio-themes-dark-grey .numValueBox {
     border-color: rgb(10,10,10);
-    background: rgb(50,50,50);
+    background: rgb(40,40,40);
 }
 
 .rstudio-themes-flat.rstudio-themes-dark-grey .textFilterBox {
-    background: rgb(50,50,50);
+    background: rgb(40,40,40);
     color: #FFF;
 }
 
@@ -920,16 +920,16 @@ table.rstheme_tabLayoutCenter, .rstudio-themes-flat .rstudio-themes-dark-grey .g
 }
 
 .rstudio-themes-flat.editor_dark .histBack.selected {
-    background-color: rgb(100, 100, 100);
+    background-color: rgb(70,70,70);
 }
 
 .rstudio-themes-flat.editor_dark .searchMatch {
-    background-color: rgb(127, 127, 127);
+    background-color: rgb(80,80,80);
 }
 
 /* File tabs */
 .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCCS {
-    background: linear-gradient(to right, rgba(60, 60, 60, 0), rgb(30,30,30) 13%);
+    background: linear-gradient(to right, rgba(45,45,45, 0), rgb(30,30,30) 13%);
 }
 
 /* RStudio borders*/
@@ -961,9 +961,9 @@ table.rstheme_tabLayoutCenter, .rstudio-themes-flat .rstudio-themes-dark-grey .g
 
 /* Fonts */
 .rstudio-themes-flat.editor_dark .ace_editor_theme .GD15MCFCGI {
-    color: rgb(247, 247, 247);
+    color: rgb(247,247,247);
 }
 
 .rstudio-themes-flat .rstudio-themes-dark .breadcrumb table.GD15MCFCJJ a {
-    color: rgb(247, 247, 247);
+    color: rgb(247,247,247);
 }
