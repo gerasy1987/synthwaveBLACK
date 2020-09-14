@@ -1,4 +1,4 @@
-/* rs-theme-name: SynthwaveBLACK_mod */
+/* rs-theme-name: SynthwaveBLACK */
 /* rs-theme-is-dark: TRUE */
 /* Based on Synthwave85 by Jacqueline Nolis: https://github.com/jnolis/synthwave85 */
 /* Created by Roshan Darji: */
@@ -15,7 +15,7 @@
 }
 
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
-  background-color: #232525;
+  background-color: #000000;
   color: #ecebe4;
 }
 
@@ -287,8 +287,8 @@
 .xtermBgColor14 { background-color: #34e2e2; }
 .xtermColor15 { color: #eeeeec !important; }
 .xtermBgColor15 { background-color: #eeeeec; }
-.xtermColor16 { color: #232525 !important; }
-.xtermBgColor16 { background-color: #232525; }
+.xtermColor16 { color: #000000 !important; }
+.xtermBgColor16 { background-color: #000000; }
 .xtermColor17 { color: #00005f !important; }
 .xtermBgColor17 { background-color: #00005f; }
 .xtermColor18 { color: #000087 !important; }
@@ -797,7 +797,7 @@
 
 /* background */
  .rstudio-themes-flat .rstudio-themes-dark-grey, .rstudio-themes-flat .rstudio-themes-dark-grey .rstudio-themes-background {
-    background: #333333 !important;
+    background: #000000 !important;
 }
 
 /* inactive tabs */
